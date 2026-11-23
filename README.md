@@ -1,4 +1,4 @@
-# santosh.dev
+# santoshgajje.dev
 
 Portfolio site — React 19 + TypeScript + Vite. Plain CSS, no runtime dependencies beyond React.
 
@@ -15,7 +15,7 @@ Build command `npm run build`, output directory `dist`, framework preset "Vite".
 
 **Direct upload:** `npm run deploy` (uses `npx wrangler pages deploy dist`; run `npx wrangler login` once).
 
-**Custom domain:** Pages project → Custom domains → add `santosh.dev` (and `www.santosh.dev`).
+**Custom domain:** Pages project → Custom domains → add `santoshgajje.dev` (and `www.santoshgajje.dev`).
 If the domain's DNS is on Cloudflare this is one click. `.dev` is HTTPS-only, which Pages handles.
 
 ## Edit content
